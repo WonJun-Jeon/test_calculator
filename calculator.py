@@ -36,4 +36,4 @@ def calculator() :
 
 print("## +-/*** : Mathematical Expression , ", end = "")
 print("Other Operator : Elementary Arithmetic ##")
-"""print(calculator())"""
+calculator()
